@@ -1,4 +1,4 @@
-package co.jp.fujixerox;
+package co.jp.higschool;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

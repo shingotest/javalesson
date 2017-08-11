@@ -1,4 +1,4 @@
-package co.jp.fujixerox;
+package co.jp.higschool;
 
 public class Companyfactry {
 	public Section createCompay(String sectioId) {

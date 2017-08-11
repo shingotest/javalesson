@@ -1,4 +1,4 @@
-package co.jp.fujixerox;
+package co.jp.higschool;
 
 class Etc extends Section {
 
