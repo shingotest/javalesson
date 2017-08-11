@@ -14,6 +14,14 @@ import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 
+/**
+ *
+ * csvの内容を表示する
+ *
+ * @author shing
+ *
+ *
+ */
 public class AppMain {
 	public static void main(String[] args) {
 		Properties properties  = new Properties();
